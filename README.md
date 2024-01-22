@@ -39,6 +39,8 @@ Nous mesurons dix fois dans chaque direction, puis calculons une valeur moyenne.
 
 ## Progress Results
 
+https://github.com/ESN2024/HUANG_Lab3/assets/94178929/2200d740-6e7f-4f83-a447-baa3a029a274
+
 
 
 ## Conclusion
